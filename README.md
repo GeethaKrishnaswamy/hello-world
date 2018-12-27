@@ -1,2 +1,3 @@
 # hello-world
-this is my first git repo
+This is my first GIT REPOSITORY!! 
+Excited to learn GIT
